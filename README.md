@@ -8,3 +8,6 @@
 // reference sites
 // https://x-engineer.org/linear-interpolation-extrapolation-calculator/#formula
 // https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_848_fs001r#
+
+
+See Work in prgress at: https://rupert.id.au/MamlukKoran/
